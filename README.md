@@ -1,2 +1,2 @@
-# DSA2-DijkstrasAlgorithm
-This code uses a Hash Table and Binary Heap to make a graph that's able to perform Dijkstra's Algorithm
+# Data Structures and Algorithms 2
+In this class I created a Hash Table, a Binary Heap, code that performs Dijkstra's Algorithm, and code that demonstartes dynamic programming.
